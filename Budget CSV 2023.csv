@@ -13,10 +13,10 @@ SD,Winter Energy Payment,537508
 SD,Disability Assistance,440024
 SD,Community Support Services,375658
 SD,Recoverable Assistance,372970
-SD,Orphans / Unsupported Child's Benefit,367553
+SD,Orphans / Unsupported Child\'s Benefit,367553
 SD,Childcare Assistance,186766
 SD,Housing Support Assistance,152710
-SD,Veterans' Pension,131407
+SD,Veterans\' Pension,131407
 SD,Debt Write Downs,131345
 SD,Capital Expenditure,120651
 SD,Community Participation Services,116507
@@ -40,7 +40,7 @@ SD,Corporate Support Services,19855
 SD,Supporting Equitable Pay for Care and Support Workers,17415
 SD,Drivers License Support Employment Assistance,15000
 SD,Special Circumstances Assistance,11160
-SD,Children and Young People's Commission,10824
+SD,Children and Young People\'s Commission,10824
 SD,Administration of Service Cards,7635
 SD,Planning Correspondencce and Monitoring,6268
 SD,Reimbursement of Income Related Rent Overpayments,6262
@@ -51,10 +51,10 @@ SD,Promoting Positive Outcomes for Seniors,2658
 SD,Extraordinary Care Fund,2308
 SD,Enhancement and Promotion of SuperGold Cards,1710
 SD,Social Workers Registration Board,1554
-SD,Children and Young People's Commission Capital Programme,1300
+SD,Children and Young People\'s Commission Capital Programme,1300
 SD,Disability-Related Legal Expenses,1000
 SD,Housing Place-Based Approaches,917
-SD,Processing of Veterans' Pensions,744
+SD,Processing of Veterans\' Pensions,744
 SD,Establishment of Ministry of Disabled People,544
 SD,Transitional Assistance,500
 SD,Investigating and Responding to Alleged Social Work Offending,100
@@ -126,7 +126,7 @@ Education,Contributions to Other Education-related Organisations,6248
 Education,Services to Other Agencies,6182
 Education,Write Down an Write Offs,1200
 Education,ERO - Capital Expenditure,1177
-Education,ERO - Establishing the Independent Childresn's Monitor,150
+Education,ERO - Establishing the Independent Childresn\'s Monitor,150
 HUD,Kainga Ora Lending Facility,5240000
 HUD,Public Housing,1761163
 HUD,Housing Acceleration Fund,1351737
@@ -158,7 +158,7 @@ HUD,Kainga Ora Land Programme,6390
 HUD,Support Services to Increase Home Ownership,6000
 HUD,Operating the Land for Housing Programme,4618
 HUD,Progressing the Pipeline of Maori Housing,4209
-HUD,Land for Housing Programme - Developers' Loans Payments,3440
+HUD,Land for Housing Programme - Developers\' Loans Payments,3440
 HUD,Housing Assistance (lending differences),789
 HUD,Operating Buying off the Plans Programme,100
 HUD,Management of Crown Properties held under the Housing Act 1995,8
@@ -228,7 +228,7 @@ Finance,Venture Capital Fund,163510
 Finance,Policy Advice and Financial Services,103637
 Finance,Participation in Divident Reinvestment Plans by the Mixed Ownership Model Companies,70000
 Finance,Earthquake Commission - On-Sold Canterbury Properties,47535
-Finance,Government Superannuation Fund Authority - Crown's Share of Expenses,42958
+Finance,Government Superannuation Fund Authority - Crown\'s Share of Expenses,42958
 Finance,Crown Infrastructure Partners Ltd - Equity Injection,37284
 Finance,Central Crown Infrastructure Delivery Agency - Operating,25000
 Finance,Admin of Crown Borrowing,16552
@@ -367,7 +367,7 @@ BSI,Low Emission Transport Fund Freight Decarbonisation Grants,1000
 BSI,Economic Development Early Stage Capital Markets,750
 Environment,Allocation of NZ Units,2202800
 Environment,Loss on Sale of NZ Units,500000
-Environment,Improving NZ's Environment,174586
+Environment,Improving NZ\'s Environment,174586
 Environment,Waste Minimisation,170000
 Environment,Impairment of Debt Relating to Climate Change Activities,147000
 Environment,Freshwater Improvement Fund,90530
@@ -420,7 +420,7 @@ LM,International Labour Organisation,1855
 LM,Support for Fair Pay Agreements and Screen Industry Occupational Bargaining,1494
 LM,Health and Safety at Work Levy - Collection Services,869
 LM,Equal Employment Opportunities Trust,396
-LM,Remuneration Authority Members' Fees Salaries and Allowances,330
+LM,Remuneration Authority Members\' Fees Salaries and Allowances,330
 LM,ACC - Regulatory Services,122
 LM,New Zealand Industrial Relations Foundation,15
 Police,Investigations and Case Resolution,808008
@@ -441,7 +441,7 @@ Corrections,Waikeria Corrections and Treatment Facility,50
 FA,International Development Cooperation,1280955
 FA,Delivery of NZ Foreign Policy,276657
 FA,New Zealand Antarctic Institute,179000
-FA,Management of NZ's International Development Cooperation,134950
+FA,Management of NZ\'s International Development Cooperation,134950
 FA,Capital Expenditure,87309
 FA,Analysis and Advice to Inform NZ Foreign Policy,82615
 FA,Delivery of Diplomatic and Consular Services,62336
@@ -476,7 +476,7 @@ IA,Fire and Emergency New Zealand - Loans,25000
 IA,Local Government Policy and Related Services,23755
 IA,Rural Drinking Water Supplies,20000
 IA,Supporting Ethnic Communities,19132
-IA,Tahuhu - Preserving the Nation's Memory,15919
+IA,Tahuhu - Preserving the Nation\'s Memory,15919
 IA,Water Services Reform,14250
 IA,Policy and Related Services,13952
 IA,Royal Commission into Historical Abuse in State Care etc,11492
