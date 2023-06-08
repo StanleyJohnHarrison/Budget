@@ -624,13 +624,13 @@ BC,Other Expenses,2859
 BC,Insurance Claims Resolution,826
 PS,Operations Information and Advisory Services,88055
 PS,Party and Member Support,48214
-PS,Members' Salaries and Allowances,22000
+PS,Members\' Salaries and Allowances,22000
 PS,Depreciation Expense on Parliamentary Complex,18000
 PS,Future Accommodation Strategy,12930
 PS,Capital Expenditure,7775
 PS,Crown Asset Management,7486
 PS,Travel of Members and Others,4800
-PS,Accommodation of Members and Travel of Members' Families,3700
+PS,Accommodation of Members and Travel of Members\' Families,3700
 PS,Members Communications,3348
 PS,Final and Other Contractual Payments to Staff,3255
 PS,Travel of Former MPs,1300
@@ -638,13 +638,13 @@ PS,Transitional Costs between Parliaments,1195
 PS,Additional Support for Members,300
 PS,Support Services to the Speaker,174
 Forestry,Growth and Development of the Forestry Sector,172715
-Forestry,Capital Investment in the Crown's Forestry Assets,18000
+Forestry,Capital Investment in the Crown\'s Forestry Assets,18000
 Forestry,Forestry and Economic Development and Erosion Control - Tairawhiti,2563
 SR,High Performance Sport,74542
 SR,Sport and Recreation Programmes,71085
 SR,Integrity Sport and Recreation Commission,7879
 SR,Sports Anti-Doping,4758
-SR,Prime Minister's Sport Scholarships,4250
+SR,Prime Minister\'s Sport Scholarships,4250
 SR,Advice and Monitoring of Sport and Recreation Crown Entities,470
 SR,Miscellaneous Grants,44
 Audit,Audit and Assurance Services,131859
@@ -687,9 +687,9 @@ PP,Study and Training Awards for Business Development,1222
 PP,Capital Expenditure,350
 PS,Leadership of the Public Management System,36400
 PS,Remuneration of Chief Executives,18617
-PS,Public Service Fale,4000
-PS,Capital Expenditure,540
-PS,Open Government Partnership,200
+PSe,Public Service Fale,4000
+PSe,Capital Expenditure,540
+PSe,Open Government Partnership,200
 Ombudsmen,Investigation and Resolution of Complaints about Government Administration,53765
 Ombudsmen,Capital Expenditure,2583
 Ombudsmen,Remuneration of Ombudsmen,506
